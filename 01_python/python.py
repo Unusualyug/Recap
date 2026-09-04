@@ -1,4 +1,20 @@
 """
+
+1. Variables
+2. Data Types
+3. Conditions
+4. Loops
+5. Functions
+6. Lists
+7. Tuples
+8. Sets
+9. Dictionaries
+10. Classes & Objects
+11. Exception Handling
+12. File Handling
+13. Modules & Packages
+14. Virtual Environments
+
 1. VARIABLE
 
 -- variable is a simple name which w are used to store the value.
